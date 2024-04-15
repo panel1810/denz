@@ -56,20 +56,20 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘�
 global.wm3 = 'itscukki botz'
 global.md = 'itscukki botz‌'
 //-----[OWNER]
-global.nomorown = '62858084922740'
+global.nomorown = '33757050057'
 global.owner = [
-['62858084922740'], // global owner 0
-['62858084922740'], // global owner 1
-['62858084922740'], // global owner 2
-['62858084922740', 'Zalalia`', true] // global owner 3
+['33757050057'], // global owner 0
+['33757050057'], // global owner 1
+['33757050057'], // global owner 2
+['33757050057', 'Monique`', true] // global owner 3
 ]
 global.mods = [] // Want some help?
-global.prems = ['62858084922740','62858084922740'] // Premium user has unlimited limit
+global.prems = ['33757050057','33757050057'] // Premium user has unlimited limit
 
 // =================={[(API KEYS)]}==================
 global.mupar = 'OnLasdan'
 global.org = '4SVXAlaZC9Ix9LK5O33M7qeZ'
-global.openai = 'UWDxn1Vpch2WWkMJ5JbiT3BlbkFJaEkc5PvkWPeg0HnlKEw1'
+global.openai = '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'
 global.APIs = {
 can: 'https://pnggilajacn.my.id',
 skizo: 'https://xzn.wtf',
